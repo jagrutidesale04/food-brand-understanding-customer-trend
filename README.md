@@ -5,7 +5,7 @@ Customer feedback is a goldmine for innovation in the food industry. This projec
 
 This project has been completed under the guidance of **Pavithra Kannan Ma'am** as part of **Infosys Springboard Virtual Internship 6.0**, Team 6.
 
-## 👥 Team Members & Roles
+## Team Members & Roles
 
 | Sr No. | Member | Role |
 |--------|--------|------|
